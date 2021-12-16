@@ -12,6 +12,8 @@ public class GUI extends JFrame {
 
     private Header headerProject;
 
+    "Bueno, nos vamos para el meet???"
+
     /**
      * Constructor of GUI class
      */
